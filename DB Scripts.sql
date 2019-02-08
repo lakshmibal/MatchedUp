@@ -117,6 +117,7 @@ CREATE TABLE `Matchup`.`Attend` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);
 
+                                  
 CREATE TABLE `Matchup`.`Forum` (
   `Forum_ID` VARCHAR(45) NOT NULL,
   `Name` VARCHAR(45) NULL,
